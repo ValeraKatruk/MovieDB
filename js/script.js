@@ -38,3 +38,4 @@ movieDB.movies.sort().forEach((el, idx) => {
   movieList.innerHTML += `<li class="promo__interactive-item">${idx + 1}) ${el}
         <div class="delete"></div></li>`;
 });
+// конец части первого задания
